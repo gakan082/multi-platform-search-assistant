@@ -38,3 +38,6 @@ The user enters a search query in the input field and chooses a platform.
 
 ```bash
 python "search app.py"
+## Project Screenshot
+
+![Multi-Platform Search Assistant](screenshot.png)
