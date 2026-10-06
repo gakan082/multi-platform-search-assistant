@@ -37,4 +37,4 @@ The user enters a search query in the input field and chooses a platform.
 4. Run:
 
 ```bash
-python search app.py
+python "search app.py"
